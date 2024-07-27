@@ -1,0 +1,22 @@
+company_id,name,address,latitude,longitude
+1,TechNova Solutions,"123 Innovation Drive, San Francisco, CA 94105",37.7749,-122.4194
+2,GreenLeaf Enterprises,"456 Sustainability Ave, Portland, OR 97201",45.5155,-122.6789
+3,OceanView Logistics,"789 Harbor Blvd, Miami, FL 33131",25.7617,-80.1918
+4,MountainPeak Investments,"101 Summit Road, Denver, CO 80202",39.7392,-104.9903
+5,UrbanEdge Retail,"202 City Center Plaza, Chicago, IL 60601",41.8781,-87.6298
+6,SunriseMed Innovations,"303 Health Lane, Boston, MA 02110",42.3601,-71.0589
+7,ElectraTech Industries,"404 Circuit Street, Austin, TX 78701",30.2672,-97.7431
+8,AgroFuture Corporation,"505 Harvest Road, Des Moines, IA 50309",41.5868,-93.6250
+9,QuantumLeap AI,"606 Algorithm Alley, Seattle, WA 98101",47.6062,-122.3321
+10,EcoHarbor Resorts,"707 Beachfront Drive, Honolulu, HI 96815",21.3069,-157.8583
+11,TechWave Solutions,"123 Silicon Valley, San Jose, CA 95110",37.3382,-121.8860
+12,GreenTech Innovations,"456 Green Street, Seattle, WA 98109",47.6062,-122.3321
+13,HealthNet Corp,"789 Wellness Ave, Denver, CO 80202",39.7392,-104.9903
+14,FinanceFirst Inc,"101 Finance Plaza, New York, NY 10005",40.7128,-74.0060
+15,EduSmart Systems,"202 Learning Lane, Boston, MA 02110",42.3601,-71.0589
+16,AutoDrive Motors,"303 Car Way, Detroit, MI 48226",42.3314,-83.0458
+17,BuildRight Constructions,"404 Builder's Boulevard, Chicago, IL 60601",41.8781,-87.6298
+18,TravelJet Airways,"505 Airport Road, Los Angeles, CA 90045",34.0522,-118.2437
+19,Foodies Delight,"606 Culinary Crescent, Miami, FL 33101",25.7617,-80.1918
+20,SmartTech Gadgets,"707 Innovation Dr, Austin, TX 73301",30.2672,-97.7431
+

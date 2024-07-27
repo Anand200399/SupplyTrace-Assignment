@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  backend:
+    build:
+      context: ./Backend
+      dockerfile: Dockerfile
+    container_name: company-backend
+    ports:
+      - "5001:5001"  # Map host port 5001 to container port 5001
+    volumes:
+      - ./Backend/logs:/app/logs
+
+    environment:
+      - FLASK_ENV=development
+      - FLASK_RUN_PORT=5001
+    networks:
+      - company-net
+
+  frontend:
+    build:
+      context: ./Frontend
+      dockerfile: Dockerfile
+    container_name: company-frontend
+    ports:
+      - "3000:3000"
+    networks:
+      - company-net
+
+networks:
+  company-net:
+    driver: bridge
